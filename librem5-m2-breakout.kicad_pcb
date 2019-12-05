@@ -226,7 +226,7 @@
   )
 
   (net_class USB ""
-    (clearance 0.157)
+    (clearance 0.15)
     (trace_width 0.246)
     (via_dia 0.8)
     (via_drill 0.4)
