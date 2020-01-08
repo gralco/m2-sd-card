@@ -732,6 +732,10 @@ F 0 "J107" H 7380 2792 50  0000 L CNN
 F 1 "Conn_01x02" H 7380 2701 50  0000 L CNN
 F 2 "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical_SMD_Pin1Right" H 7300 2800 50  0001 C CNN
 F 3 "~" H 7300 2800 50  0001 C CNN
+F 4 "https://www.digikey.com/product-detail/en/harwin-inc/M50-3630242R/952-3933-1-ND/9374745" H 7300 2800 50  0001 C CNN "Distrib Link"
+F 5 "952-3933-1-ND" H 7300 2800 50  0001 C CNN "Distrib PN"
+F 6 "M50-3630242R" H 7300 2800 50  0001 C CNN "MFG Part Num"
+F 7 "https://www.digikey.com/products/en/connectors-interconnects/rectangular-connectors-headers-male-pins/314?FV=-8%7C314%2C88%7C121326%2C2024%7C7022&quantity=0&ColumnSort=0&page=1&pageSize=500" H 7300 2800 50  0001 C CNN "Others"
 	1    7300 2800
 	1    0    0    -1  
 $EndComp
@@ -752,7 +756,7 @@ SoC_UART_TX
 Wire Wire Line
 	6450 1950 7100 1950
 $Comp
-L Connector:USB_B_Micro J108
+L Connector:USB_OTG J108
 U 1 1 5E00F7F3
 P 7300 3500
 F 0 "J108" H 7070 3397 50  0000 R CNN
