@@ -762,13 +762,13 @@ P 7300 3500
 F 0 "J108" H 7070 3397 50  0000 R CNN
 F 1 "USB_B_Micro" H 7070 3488 50  0000 R CNN
 F 2 "Connector_USB:USB_Micro-B_Wuerth_614105150721_Vertical" H 7450 3450 50  0001 C CNN
-F 3 "~" H 7450 3450 50  0001 C CNN
-F 4 "Molex" H 7300 3500 50  0001 C CNN "MFG Name"
-F 5 "47346-0001" H 7300 3500 50  0001 C CNN "MFG Part Num"
-F 6 "538-47346-0001" H 7300 3500 50  0001 C CNN "Distrib PN"
-F 7 "https://www.mouser.com/ProductDetail/Molex/47346-0001?qs=c2CV6XM0DweJBWaSeyWeCw%3D%3D" H 7300 3500 50  0001 C CNN "Distrib Link"
+F 3 "https://www.we-online.de/katalog/datasheet/614105150721.pdf" H 7450 3450 50  0001 C CNN
+F 4 "Würth Elektronik" H 7300 3500 50  0001 C CNN "MFG Name"
+F 5 "614105150721" H 7300 3500 50  0001 C CNN "MFG Part Num"
+F 6 "732-5958-1-ND" H 7300 3500 50  0001 C CNN "Distrib PN"
+F 7 "https://www.digikey.com/product-detail/en/w-rth-elektronik/614105150721/732-5958-1-ND/5047553" H 7300 3500 50  0001 C CNN "Distrib Link"
 F 8 "-" H 7300 3500 50  0001 C CNN "Tolerance"
-F 9 "https://www.digikey.com/product-detail/en/molex/0473460001/WM17141CT-ND/1782474" H 7300 3500 50  0001 C CNN "Others"
+F 9 "https://www.mouser.com/ProductDetail/Wurth-Elektronik/614105150721?qs=a9WhcLg8qCw5r6rjD3973Q%3D%3D" H 7300 3500 50  0001 C CNN "Others"
 	1    7300 3500
 	-1   0    0    1   
 $EndComp
