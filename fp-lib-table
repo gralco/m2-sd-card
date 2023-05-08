@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name librem5-m2-breakout)(type KiCad)(uri ${KIPRJMOD}/librem5-m2-breakout.pretty)(options "")(descr ""))
+  (lib (name m2-sd-card)(type KiCad)(uri ${KIPRJMOD}/m2-sd-card.pretty)(options "")(descr ""))
 )

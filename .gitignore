@@ -1,0 +1,6 @@
+*.bak
+*.bck
+*.sch-bak
+*-cache.lib
+*.kicad_pcb-bak
+m2-sd-card-backups/

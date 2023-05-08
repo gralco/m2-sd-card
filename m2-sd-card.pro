@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=librem5-m2-breakout.net
+LastNetListRead=m2-sd-card.net
 CopperLayerCount=4
 BoardThickness=0.8
 AllowMicroVias=0

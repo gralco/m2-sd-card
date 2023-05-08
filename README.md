@@ -1,4 +1,4 @@
-# librem5-m2-breakout
+# m2-sd-card
 
 M.2 Key E breakout board for the Librem 5 and the Librem 5 Dev Kit.
 

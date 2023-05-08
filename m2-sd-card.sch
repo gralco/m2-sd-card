@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:librem5-m2-breakout-cache
+LIBS:m2-sd-card-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -210,7 +210,7 @@ Wire Wire Line
 Text Label 3950 3300 0    50   ~ 0
 SoC_UART_TX
 $Comp
-L librem5-m2-breakout:SN74LV1T34DBV U101
+L m2-sd-card:SN74LV1T34DBV U101
 U 1 1 5DE0887E
 P 4850 3300
 F 0 "U101" H 4550 3650 50  0000 L CNN
@@ -287,12 +287,12 @@ Wire Wire Line
 Wire Wire Line
 	3750 5300 3250 5300
 $Comp
-L librem5-m2-breakout:M.2_Key_E J101
+L m2-sd-card:M.2_Key_E J101
 U 1 1 5DDEC095
 P 3050 3900
 F 0 "J101" H 3100 1800 50  0000 C CNN
 F 1 "M.2_Key_E" H 3100 1900 50  0000 C CNN
-F 2 "librem5-m2-breakout:M.2_Key_E_Gold_Fingers" H 3050 3900 50  0001 C CNN
+F 2 "m2-sd-card:M.2_Key_E_Gold_Fingers" H 3050 3900 50  0001 C CNN
 F 3 "" H 3050 3900 50  0001 C CNN
 	1    3050 3900
 	-1   0    0    1   
@@ -365,12 +365,12 @@ Wire Wire Line
 Text Label 2150 3950 0    50   ~ 0
 UART_CTS
 $Comp
-L librem5-m2-breakout:Micro_SD_Card_Det_ALPS_SCHA J109
+L m2-sd-card:Micro_SD_Card_Det_ALPS_SCHA J109
 U 1 1 5DDF530E
 P 9750 4000
 F 0 "J109" H 9050 4700 50  0000 C CNN
 F 1 "Micro_SD" H 10225 4700 50  0000 C CNN
-F 2 "librem5-m2-breakout:ALPS_SCHA4B0419" H 11800 4700 50  0001 C CNN
+F 2 "m2-sd-card:ALPS_SCHA4B0419" H 11800 4700 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/15/alps_SCHA4B0419-1155906.pdf" H 9750 4100 50  0001 C CNN
 F 4 "ALPS" H 9750 4000 50  0001 C CNN "MFG Name"
 F 5 "SCHA4B0419" H 9750 4000 50  0001 C CNN "MFG Part Num"
@@ -537,7 +537,7 @@ U 1 1 5DF18025
 P 3000 5950
 F 0 "H101" H 2900 5999 50  0000 R CNN
 F 1 "MountingHole_Pad" H 2900 5908 50  0000 R CNN
-F 2 "librem5-m2-breakout:M.2_Mounting_Hole" H 3000 5950 50  0001 C CNN
+F 2 "m2-sd-card:M.2_Mounting_Hole" H 3000 5950 50  0001 C CNN
 F 3 "~" H 3000 5950 50  0001 C CNN
 	1    3000 5950
 	1    0    0    -1  
