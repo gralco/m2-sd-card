@@ -1,4 +1,4 @@
-21669047530183632
+21672414755323370
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90195,12 +90195,12 @@ varistor
 2
 2
 m2-sd-card
-ALPS_SCHA4B0419
+JAE_ST11S008V4HR2000
 
 
 0
-17
-10
+18
+18
 m2-sd-card
 M.2_Key_E_Gold_Fingers
 
@@ -90215,3 +90215,17 @@ mounting hole 3.5mm
 0
 1
 1
+m2-sd-card
+NVT4857UK
+WLCSP20
+Integrated Circuit
+0
+20
+20
+m2-sd-card
+microSD_HC_Hirose_DM3AT-SF-PEJM5
+Micro SD, SMD, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3AT-SF-PEJM5/category/Drawing%20(2D)/doc_file_id/44099/?file_category_id=6&item_id=06090031000&is_series=)
+Micro SD
+0
+14
+11
