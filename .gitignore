@@ -3,4 +3,5 @@
 *.sch-bak
 *-cache.lib
 *.kicad_pcb-bak
+_autosave*-.kicad_pcb
 m2-sd-card-backups/

@@ -364,7 +364,7 @@
       )
     )
   )
-  (model "${KIPRJMOD}/packages3d/ST11S008V4HR2000.STEP"
+  (model "${KIPRJMOD}/packages3d/ST11S008V4HR2000.step"
     (offset (xyz -0.9 6.7 0.025))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
