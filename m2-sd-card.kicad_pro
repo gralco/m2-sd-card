@@ -35,8 +35,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.35,
-          "width": 1.7
+          "height": 0.62,
+          "width": 0.56
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.127
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -56,7 +56,8 @@
         }
       ],
       "drc_exclusions": [
-        "copper_edge_clearance|148850000|95000000|aad94382-ce7b-4a98-8afe-4e6506d3ac83|1868f2f9-4138-476c-bf4d-1c9ffacb18c6"
+        "copper_edge_clearance|148850000|95000000|aad94382-ce7b-4a98-8afe-4e6506d3ac83|1868f2f9-4138-476c-bf4d-1c9ffacb18c6",
+        "silk_overlap|127354000|88682623|cc672888-150d-45b5-9439-57c805af2e91|987bf88a-26f5-4b67-b44b-f65fd18a4b34"
       ],
       "meta": {
         "filename": "board_design_settings.json",
@@ -119,17 +120,17 @@
         "min_clearance": 0.127,
         "min_connection": 0.127,
         "min_copper_edge_clearance": 0.3,
-        "min_hole_clearance": 0.3,
+        "min_hole_clearance": 0.2387,
         "min_hole_to_hole": 0.2794,
-        "min_microvia_diameter": 0.19999999999999998,
-        "min_microvia_drill": 0.09999999999999999,
-        "min_resolved_spokes": 2,
+        "min_microvia_diameter": 0.2032,
+        "min_microvia_drill": 0.1016,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.7999999999999999,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.25,
         "min_track_width": 0.127,
-        "min_via_annular_width": 0.127,
+        "min_via_annular_width": 0.059699999999999996,
         "min_via_diameter": 0.504,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
@@ -179,6 +180,8 @@
         0.127,
         0.175,
         0.2,
+        0.203321,
+        0.221,
         0.254
       ],
       "via_dimensions": [
@@ -187,7 +190,15 @@
           "drill": 0.0
         },
         {
+          "diameter": 0.221,
+          "drill": 0.1016
+        },
+        {
           "diameter": 0.52,
+          "drill": 0.254
+        },
+        {
+          "diameter": 0.6,
           "drill": 0.254
         },
         {
@@ -432,8 +443,8 @@
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
+        "microvia_diameter": 0.221,
+        "microvia_drill": 0.1016,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
