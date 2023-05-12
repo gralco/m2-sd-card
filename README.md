@@ -1,6 +1,6 @@
 # m2-sd-card
 
-M.2 Key E breakout board for the Librem 5 and the Librem 5 Dev Kit.
+M.2 Key E MicroSD card board for the Librem 5. Using a NXP NVT4857UK, TI TXS0206, Diodes Inc. PI4ULS3V4857 SD 3.0-SDR104 compliant bidirectional level translator.
 
 The contents of this repo is licensed under the GNU GPLv3+
 
