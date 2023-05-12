@@ -1,4 +1,4 @@
-21674098857376390
+21674099181228466
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90224,7 +90224,7 @@ Micro SD
 0
 m2-sd-card
 NVT4857UK
-WLCSP20
+WLCSP20, SOT1397-10, https://www.nxp.com/docs/en/package-information/SOT1397-10.pdf
 Integrated Circuit
 0
 20

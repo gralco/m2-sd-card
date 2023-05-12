@@ -57,7 +57,8 @@
       ],
       "drc_exclusions": [
         "copper_edge_clearance|148850000|95000000|aad94382-ce7b-4a98-8afe-4e6506d3ac83|1868f2f9-4138-476c-bf4d-1c9ffacb18c6",
-        "silk_overlap|127354000|88682623|cc672888-150d-45b5-9439-57c805af2e91|987bf88a-26f5-4b67-b44b-f65fd18a4b34"
+        "lib_footprint_mismatch|122400000|87900000|622574b8-2086-4ec3-b815-17e54a6fb1ad|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|136100000|89696250|0af6dbea-8cc9-4526-a343-7f3380f37fc9|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "filename": "board_design_settings.json",
@@ -128,7 +129,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.7999999999999999,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.25,
+        "min_through_hole_diameter": 0.254,
         "min_track_width": 0.127,
         "min_via_annular_width": 0.059699999999999996,
         "min_via_diameter": 0.504,
@@ -457,7 +458,10 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "+1V8": "rgb(83, 238, 255)",
+      "+3V3": "rgb(255, 0, 113)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": [
       {
@@ -700,7 +704,7 @@
       "idf": "",
       "netlist": "m2-sd-card.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "m2-sd-card.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
