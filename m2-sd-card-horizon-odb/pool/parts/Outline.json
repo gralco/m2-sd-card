@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "Outline"
+    ],
+    "datasheet": [
+        false,
+        "N/A"
+    ],
+    "description": [
+        false,
+        "N/A"
+    ],
+    "entity": "ccbe9d2c-1d58-4cb9-aa33-7c0d7962cc18",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Outline"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "68f14d22-69f9-446f-aaa5-d6128d8f311a": "Outline"
+    },
+    "package": "cabb2973-1de1-4a45-9289-6fba3a71e464",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "6f9d71b2-e7c7-477e-b1b2-2d9855d0018b",
+    "value": [
+        false,
+        "Outline"
+    ]
+}

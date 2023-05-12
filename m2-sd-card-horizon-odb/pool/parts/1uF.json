@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "CL05A105KO5NNNC"
+    ],
+    "datasheet": [
+        false,
+        "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A105KO5NNNC_Spec_5-2-19.pdf"
+    ],
+    "description": [
+        false,
+        "CAP CER 1UF 16V X5R 0402"
+    ],
+    "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Samsung"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "3a766247-3211-41df-9cf7-a3e58f670c90": "187-CL05A105KO5NNNC"
+    },
+    "package": "449f7ebe-2984-4046-87af-9c9a92b21691",
+    "pad_map": {
+        "144671e5-a242-4421-96d1-3024be3c09b2": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "5bab295c-c8af-408f-87e8-a82d8fcce89b": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "abdc4e68-3be3-47e7-a7c8-4a5536a34f2a",
+    "value": [
+        false,
+        "1 μF"
+    ]
+}

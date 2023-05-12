@@ -1,0 +1,119 @@
+{
+    "MPN": [
+        false,
+        "NVT4857UKAZ"
+    ],
+    "datasheet": [
+        false,
+        "http://www.nxp.com/docs/en/data-sheet/NVT4857UK.pdf"
+    ],
+    "description": [
+        false,
+        "SD 3.0-SDR104 compliant integrated auto-direction control"
+    ],
+    "entity": "a3262736-df73-452a-be51-280d8e68079b",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "NXP"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "c7fcaf3b-eea9-4232-8c6b-1720744d01fb": "771-NVT4857UKAZ"
+    },
+    "package": "05250545-0eb4-481f-8b3f-233181c05c53",
+    "pad_map": {
+        "00527e82-c435-43ee-a498-bd6180179790": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "449e4781-7a78-4e2c-b5fc-a5ee31a8dcc4"
+        },
+        "08e2ab37-2f18-46ad-88e6-5606bbd92f8b": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "c9115197-97a8-4b99-9a17-3e87f4f13aba"
+        },
+        "0b4ca7f5-e2dd-4b00-8797-612e317b470f": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "f613fe5e-8bb8-417a-a7e1-67d86b47074b"
+        },
+        "1d550d4e-4dd0-407b-8c99-722478cc40dc": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "efd259cc-bb9d-4fbd-8775-46ccaab20be5"
+        },
+        "444178f9-0bcc-4611-94ee-57c5a66ee13b": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "72112006-7dec-4696-9b42-c6dbb561fd78"
+        },
+        "4aa60de5-cc9f-434f-83f7-6d32401e6f7a": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "4c1da6aa-3c35-46f8-a0fb-f227a8ef0453"
+        },
+        "4b8fc5e1-a023-45b0-b282-508fa0a0991e": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "ba3f3c1b-0dae-472d-8582-2d38394506e8"
+        },
+        "5a3ab83c-af98-4a5f-a846-b1bc6cc614e8": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "df2dc345-7780-4af2-8156-9b8631522017"
+        },
+        "5fd249d8-fd0d-4171-af0d-ad1b77eb0aaf": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "ed8192d8-a1b5-4598-9911-a75f78465cb4"
+        },
+        "64c3db4d-c2a0-4060-838b-f54af762dc89": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "00036b3d-00c3-4d35-b454-8ef616620587"
+        },
+        "6e2e4fc8-e1b5-4f9a-ad57-2cbb282e889d": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "18f70491-237f-4bc9-a3fe-bcbcde84df3a"
+        },
+        "76a6853b-99e3-471a-8b96-5a2c56bd99ff": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "9b2bfabd-26f7-486c-9fba-7c03ee052c35"
+        },
+        "7f4d1d80-e787-41f4-8a52-152e40aa213d": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "308770ab-5618-4937-863e-0a4605feb1f9"
+        },
+        "8bbdbbff-d6db-4e52-b0ac-0897ee951b9e": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "1c1e137d-a3dd-4788-bc96-6dc2f0d62561"
+        },
+        "8ce1e661-8c08-4fe4-85a3-13dd9a1dac53": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "d1c4e3b9-57fb-4d36-bfbc-c1c5bbdfb0b9"
+        },
+        "c1a90fc4-6eac-4514-8eac-6d61f1496815": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "3b6c007a-3376-428e-95c5-5ba5efdc22c9"
+        },
+        "c245ff2f-e26f-41e9-b6d0-b4b0c456019f": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "05c4672f-579b-4a65-9af6-ff742d7d536f"
+        },
+        "c4500638-adc1-4e6e-abcc-8b3699aa5007": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "eba0a132-6566-4860-99e8-009da1d8db67"
+        },
+        "c50ca60f-0769-43c6-800c-e4349a98e60d": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "68cf7514-2c2b-48df-9c7b-1c11989adad7"
+        },
+        "f9da25f2-61e7-4d79-98f4-30c8dabeaff4": {
+            "gate": "ebd15f47-a230-4050-8a31-7ae29ca05fde",
+            "pin": "6ccd7980-f8b8-43ca-a51d-6c149be14c5a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "transceiver"
+    ],
+    "type": "part",
+    "uuid": "46773d07-f6a8-4145-85aa-0462975f811b",
+    "value": [
+        false,
+        "NVT4857UK"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "manufacturer": "Fiducial",
+    "name": "Fiducial",
+    "pins": {
+        "25ad48e4-e9e0-461b-bdb6-0529a9c9bbd4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5fe5a3a1-8d88-406c-9ed6-b748c76297f8"
+}

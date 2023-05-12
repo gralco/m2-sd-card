@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "AP2120N-1.8TRG1"
+    ],
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/AP2120.pdf"
+    ],
+    "description": [
+        false,
+        "AP2120N-1.8TRG1"
+    ],
+    "entity": "1d0055e8-b654-4bb9-b3e2-5ad87079ecca",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Incorporated"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "e85863cf-72b7-49a1-a236-eaa11da71d48": "621-AP2120N-1.8TRG1"
+    },
+    "package": "dea36a2c-16fa-4d16-afe6-6d5420c4f0e3",
+    "pad_map": {
+        "2ec3b782-060e-47a4-a958-a29bcf3349a8": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "710a09f8-2264-4a21-b657-0b6779854d9a": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "ac65ce31-a198-4105-8a51-fcc7266f7fd0": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "d63593ca-0489-4d38-977b-63c9aba42aeb",
+    "value": [
+        false,
+        "AP2120N-1.8"
+    ]
+}

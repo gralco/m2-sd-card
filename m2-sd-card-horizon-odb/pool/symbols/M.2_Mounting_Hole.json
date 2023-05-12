@@ -1,0 +1,32 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {},
+    "lines": {},
+    "name": "MountingHole_Pad",
+    "pins": {
+        "a3c0d8cb-4524-4548-a63d-03380aadd6a6": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                0,
+                -2500000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {},
+    "type": "symbol",
+    "unit": "4b8e4121-4931-47e4-ac51-d7cb0945bd1f",
+    "uuid": "a7f7eca4-52d3-4089-adbf-d38eff0d76df"
+}

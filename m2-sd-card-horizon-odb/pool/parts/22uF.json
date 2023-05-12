@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "CM05X5R226M06AH080"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/40/Kyocera_CM__STD__series2_052920-2585758.pdf"
+    ],
+    "description": [
+        false,
+        "CAP CER 22UF 6.3V X5R 0402"
+    ],
+    "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "KYOCERA AVX"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "a97762f5-b7eb-4620-bab2-db4f86ecd4db": "346-CM05X5R226M6AH80"
+    },
+    "package": "449f7ebe-2984-4046-87af-9c9a92b21691",
+    "pad_map": {
+        "144671e5-a242-4421-96d1-3024be3c09b2": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "5bab295c-c8af-408f-87e8-a82d8fcce89b": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "1c8bc773-3047-4a07-a600-76789c1f53f4",
+    "value": [
+        false,
+        "22 μF"
+    ]
+}

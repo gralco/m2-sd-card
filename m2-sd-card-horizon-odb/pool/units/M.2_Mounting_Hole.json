@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "MountingHole_Pad",
+    "pins": {
+        "a3c0d8cb-4524-4548-a63d-03380aadd6a6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4b8e4121-4931-47e4-ac51-d7cb0945bd1f"
+}

@@ -1,0 +1,410 @@
+{
+    "manufacturer": "",
+    "name": "M.2_Key_E",
+    "pins": {
+        "02472536-5f82-401d-a3de-382ef47768a6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_52",
+            "swap_group": 0
+        },
+        "08f21716-79bd-46c1-aea3-b605b342a17d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_19",
+            "swap_group": 0
+        },
+        "0f1ac4dc-30e2-4091-98d6-0fa92f2a99a8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_64",
+            "swap_group": 0
+        },
+        "10f84d60-ceb4-4409-99ab-d725f33ddf02": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_58",
+            "swap_group": 0
+        },
+        "13bbb75f-aac7-4908-801e-c7f69fc753b6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_66",
+            "swap_group": 0
+        },
+        "14464555-9fa6-4fdd-a416-cd76ad70bbb3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_39",
+            "swap_group": 0
+        },
+        "15292ff5-538a-4989-9c09-eff4e49c93a2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_42",
+            "swap_group": 0
+        },
+        "1ce2619f-89d3-4cd6-85b8-6e60e971f1a6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_49",
+            "swap_group": 0
+        },
+        "1e8c6501-3c7e-421d-bc39-66b3dd1f8511": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_73",
+            "swap_group": 0
+        },
+        "1f3e5d67-a8fe-40af-99b9-5f49a922e359": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_61",
+            "swap_group": 0
+        },
+        "215ec3e1-1127-411d-9b8a-e52e469ce17e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_44",
+            "swap_group": 0
+        },
+        "2ba103dc-4d1f-482a-94ed-c16c81ebfc2a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_41",
+            "swap_group": 0
+        },
+        "31955595-6a08-462c-9ec7-e45cbc85c07d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_36",
+            "swap_group": 0
+        },
+        "3564b778-e3a9-4be4-8e0f-c4358dd77737": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_12",
+            "swap_group": 0
+        },
+        "398c5d49-5500-4496-a051-c2f5ef4da1b1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_70",
+            "swap_group": 0
+        },
+        "3c06ad6b-ee4b-4bad-bce9-e95fc55f07df": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_72",
+            "swap_group": 0
+        },
+        "3f314b47-33d6-49df-85a6-2abd3c343216": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_46",
+            "swap_group": 0
+        },
+        "42fa44bf-655e-45b3-b936-0576f9de08db": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_63",
+            "swap_group": 0
+        },
+        "45202602-5975-443c-8b26-6805b85e2025": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_8",
+            "swap_group": 0
+        },
+        "49c23f98-5c31-4607-85fb-9f332dff30f4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_57",
+            "swap_group": 0
+        },
+        "4c21e112-9451-49fc-870a-3d2e3870625b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_59",
+            "swap_group": 0
+        },
+        "515fff59-e5d0-4376-850f-3bf1bd53ed1e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_10",
+            "swap_group": 0
+        },
+        "51e40be4-aa6c-4cc9-bdda-337d0f87f632": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_34",
+            "swap_group": 0
+        },
+        "5ea5638e-43bd-40eb-9d5b-dbd062f2b3e3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_11",
+            "swap_group": 0
+        },
+        "5f334ec0-64a2-40d3-b056-3216f7482a18": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_74",
+            "swap_group": 0
+        },
+        "60b75f83-80f3-4b13-a15f-a860820d5061": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_45",
+            "swap_group": 0
+        },
+        "64583746-acc9-486e-aeed-67e647b733c2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_16",
+            "swap_group": 0
+        },
+        "6a5e574e-6563-4efb-a6f5-d00c9d38c41e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_56",
+            "swap_group": 0
+        },
+        "6f72853c-6899-4e14-8069-dbce97d9ee37": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_14",
+            "swap_group": 0
+        },
+        "74fc416e-d517-4153-af35-f64f5a0da1d7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_17",
+            "swap_group": 0
+        },
+        "8adefee8-921c-40c7-94df-ea6644cf5866": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_22",
+            "swap_group": 0
+        },
+        "8d7fc397-9691-406f-9cfa-7034d9c138d3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_9",
+            "swap_group": 0
+        },
+        "933a60dd-81db-452e-91a2-4e698767f751": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_51",
+            "swap_group": 0
+        },
+        "995dd955-4819-4ddf-ac62-60ca117959f5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_47",
+            "swap_group": 0
+        },
+        "9a20556f-effc-4d66-b2e2-2c31926cd8d8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_18",
+            "swap_group": 0
+        },
+        "9b73cf96-4e23-4124-8757-b68d065c8e79": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_21",
+            "swap_group": 0
+        },
+        "9bc05878-3731-4192-ab7b-1c49528a0630": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_4",
+            "swap_group": 0
+        },
+        "a894b573-57dc-43dc-b1a9-4f1251d61b71": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_71",
+            "swap_group": 0
+        },
+        "ae570324-bcaa-4290-b141-b357f64be35f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_53",
+            "swap_group": 0
+        },
+        "afcd0d05-61e9-4f69-b5a6-8b5f5f02ef60": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_13",
+            "swap_group": 0
+        },
+        "b0cd152f-ca83-4576-9bf3-32a5aedf7cd6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_37",
+            "swap_group": 0
+        },
+        "b62af220-5ffa-4b97-b9e7-33be94a5ab4c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_62",
+            "swap_group": 0
+        },
+        "b883a8aa-01b3-4b04-9367-48aa3bb920df": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_54",
+            "swap_group": 0
+        },
+        "bf5e03c3-1535-46bd-b829-e37621187be5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_68",
+            "swap_group": 0
+        },
+        "bf62917f-856f-44fc-aad6-6e951c785896": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_50",
+            "swap_group": 0
+        },
+        "c1eee99b-106d-4346-b2fe-db20308ea580": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_69",
+            "swap_group": 0
+        },
+        "c4b9d02b-9bed-463b-bd9b-88afd660654b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_6",
+            "swap_group": 0
+        },
+        "c5b768ec-fee2-4329-9858-2ddf3ac2b5ac": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_7",
+            "swap_group": 0
+        },
+        "c74fed64-68f9-47bc-bb10-928d8c8069b6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_38",
+            "swap_group": 0
+        },
+        "ce7225a3-44fb-4cc1-96c2-2f3b07726dd9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_33",
+            "swap_group": 0
+        },
+        "d0f26e88-3537-4104-bc6e-149e31b917ab": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_23",
+            "swap_group": 0
+        },
+        "d1df6899-9f45-42b6-aa88-e6cce5594c54": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_5",
+            "swap_group": 0
+        },
+        "d4cfdb61-a4a0-49ab-a6ac-68966ee8e7e4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_75",
+            "swap_group": 0
+        },
+        "dab49ea5-fbe9-4851-aa74-2c64f24e5f25": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_67",
+            "swap_group": 0
+        },
+        "dca41be7-1ca7-4801-a085-70b30c14557e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_20",
+            "swap_group": 0
+        },
+        "e0d398f2-9e5c-4eb4-8bcb-9e39503b48cb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_3",
+            "swap_group": 0
+        },
+        "e48d74ce-e34a-48eb-96ae-6016ddcb1de6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_65",
+            "swap_group": 0
+        },
+        "e5422f3c-aa3c-4371-8d35-b00f72cd8ec7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_48",
+            "swap_group": 0
+        },
+        "e6edbb59-272b-4553-a8fc-9b7eff936ff5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_60",
+            "swap_group": 0
+        },
+        "eeba7681-1916-4440-93de-0b48f4c6c2da": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_35",
+            "swap_group": 0
+        },
+        "efa513e3-b59c-4375-905e-757eb8641d6b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_32",
+            "swap_group": 0
+        },
+        "f031efcc-82cc-45a3-bd5d-a9dc226edd3a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_1",
+            "swap_group": 0
+        },
+        "f115a4b6-48f8-468c-a5df-1f7f2657fb41": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_43",
+            "swap_group": 0
+        },
+        "f12c5fdf-91c0-40b3-9116-2364b22d97b1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_15",
+            "swap_group": 0
+        },
+        "f1cac0c3-d5bc-45c7-8011-1a224c3b76ed": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_40",
+            "swap_group": 0
+        },
+        "f26def20-b025-47dc-a734-2db3fc6eca2e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_55",
+            "swap_group": 0
+        },
+        "fe2a03e8-d141-4577-9057-588825023a32": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Pin_2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c6ad61c9-3fba-4ac6-847c-8eb5d8be6670"
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "78d78baa-713d-4162-910a-eb2c1ae6e3b2": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c6ad61c9-3fba-4ac6-847c-8eb5d8be6670"
+        }
+    },
+    "manufacturer": "",
+    "name": "M.2_Key_E",
+    "prefix": "J",
+    "tags": [],
+    "type": "entity",
+    "uuid": "24a1076c-a4d8-42e1-9d63-213809173fd5"
+}

@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "85fb06ff-5d70-4925-93ff-770905ee60f6": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "59b29ae7-9894-4a79-9ecb-9ccacbc3090d"
+        }
+    },
+    "manufacturer": "Hirose",
+    "name": "DM3AT-SF-PEJM5",
+    "prefix": "J",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "454ed073-f19f-42d1-85bc-d183f0b88771"
+}

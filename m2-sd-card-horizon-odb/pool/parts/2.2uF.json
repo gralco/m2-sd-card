@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "CL05A225MQ5NNNC"
+    ],
+    "datasheet": [
+        false,
+        "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A225MQ5NNNC_Spec.pdf"
+    ],
+    "description": [
+        false,
+        "CAP CER 2.2UF 6.3V X5R 0402"
+    ],
+    "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Samsung"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "612ee599-3347-4de5-b3ac-cb5614222e66": "187-CL05A225MQ5NNNC"
+    },
+    "package": "449f7ebe-2984-4046-87af-9c9a92b21691",
+    "pad_map": {
+        "144671e5-a242-4421-96d1-3024be3c09b2": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "5bab295c-c8af-408f-87e8-a82d8fcce89b": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "83e64871-44d4-4512-934b-f1c2f7f7a819",
+    "value": [
+        false,
+        "2.2 μF"
+    ]
+}

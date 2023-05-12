@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "ebd15f47-a230-4050-8a31-7ae29ca05fde": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5eee009d-43cc-4bee-a607-dd3901666f1e"
+        }
+    },
+    "manufacturer": "NXP",
+    "name": "NVT4857UK",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "transceiver"
+    ],
+    "type": "entity",
+    "uuid": "a3262736-df73-452a-be51-280d8e68079b"
+}

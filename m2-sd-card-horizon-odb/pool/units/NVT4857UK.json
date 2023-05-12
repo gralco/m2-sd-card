@@ -1,0 +1,249 @@
+{
+    "manufacturer": "NXP",
+    "name": "NVT4857UK",
+    "pins": {
+        "00036b3d-00c3-4d35-b454-8ef616620587": {
+            "alt_names": {
+                "c085dd05-eb64-423f-a101-40a420a371a8": {
+                    "direction": "power_input",
+                    "name": "VCCA"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "05c4672f-579b-4a65-9af6-ff742d7d536f": {
+            "alt_names": {
+                "e6ec6346-86dd-49ac-988b-77770979f997": {
+                    "direction": "output",
+                    "name": "CLKB"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "D3",
+            "swap_group": 0
+        },
+        "18f70491-237f-4bc9-a3fe-bcbcde84df3a": {
+            "alt_names": {
+                "f3ea4747-8e38-41da-8afe-2471a05c4644": {
+                    "direction": "bidirectional",
+                    "name": "DAT3B"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B4",
+            "swap_group": 0
+        },
+        "1c1e137d-a3dd-4788-bc96-6dc2f0d62561": {
+            "alt_names": {
+                "668d6228-9e03-4c6f-9fd2-9be06df04a9b": {
+                    "direction": "power_output",
+                    "name": "VCCB"
+                }
+            },
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "B3",
+            "swap_group": 0
+        },
+        "308770ab-5618-4937-863e-0a4605feb1f9": {
+            "alt_names": {
+                "1846f3a6-b4de-40ac-b3bc-ca14fa6fe04f": {
+                    "direction": "bidirectional",
+                    "name": "DAT3A"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B1",
+            "swap_group": 0
+        },
+        "3b6c007a-3376-428e-95c5-5ba5efdc22c9": {
+            "alt_names": {
+                "cb21808f-7051-458d-a324-a28661308cf4": {
+                    "direction": "bidirectional",
+                    "name": "DAT0B"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D4",
+            "swap_group": 0
+        },
+        "449e4781-7a78-4e2c-b5fc-a5ee31a8dcc4": {
+            "alt_names": {
+                "35bd4885-f7e4-4bd0-b778-90f60ed45447": {
+                    "direction": "bidirectional",
+                    "name": "DAT2A"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        },
+        "4c1da6aa-3c35-46f8-a0fb-f227a8ef0453": {
+            "alt_names": {
+                "9af5c345-3df1-4eb7-8c7f-f6a68a7ece27": {
+                    "direction": "bidirectional",
+                    "name": "CMDA"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "C1",
+            "swap_group": 0
+        },
+        "68cf7514-2c2b-48df-9c7b-1c11989adad7": {
+            "alt_names": {
+                "e3b57513-3ee2-4b2b-bd22-f6d09e82e57a": {
+                    "direction": "bidirectional",
+                    "name": "DAT1A"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "E1",
+            "swap_group": 0
+        },
+        "6ccd7980-f8b8-43ca-a51d-6c149be14c5a": {
+            "alt_names": {
+                "9af5c345-3df1-4eb7-8c7f-f6a68a7ece27": {
+                    "direction": "power_input",
+                    "name": "GND_1"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "C2",
+            "swap_group": 0
+        },
+        "72112006-7dec-4696-9b42-c6dbb561fd78": {
+            "alt_names": {
+                "ae4cd94e-ebe0-4e55-9369-e0ba0d997f85": {
+                    "direction": "output",
+                    "name": "CLK_FB"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "E2",
+            "swap_group": 0
+        },
+        "9b2bfabd-26f7-486c-9fba-7c03ee052c35": {
+            "alt_names": {
+                "5a282098-066f-4cf3-b34c-d687def52009": {
+                    "direction": "input",
+                    "name": "CLKA"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "D2",
+            "swap_group": 0
+        },
+        "ba3f3c1b-0dae-472d-8582-2d38394506e8": {
+            "alt_names": {
+                "9af5c345-3df1-4eb7-8c7f-f6a68a7ece27": {
+                    "direction": "power_input",
+                    "name": "GND_2"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "C3",
+            "swap_group": 0
+        },
+        "c9115197-97a8-4b99-9a17-3e87f4f13aba": {
+            "alt_names": {
+                "922a64a7-a204-4e54-985e-0e8df93b3bf4": {
+                    "direction": "bidirectional",
+                    "name": "DAT2B"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A4",
+            "swap_group": 0
+        },
+        "d1c4e3b9-57fb-4d36-bfbc-c1c5bbdfb0b9": {
+            "alt_names": {
+                "66e814eb-9f4c-4f83-89b1-e00452141105": {
+                    "direction": "power_input",
+                    "name": "VSD"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "A3",
+            "swap_group": 0
+        },
+        "df2dc345-7780-4af2-8156-9b8631522017": {
+            "alt_names": {
+                "94de870f-5e90-49e6-8f53-a3a6ba0c24a3": {
+                    "direction": "output",
+                    "name": "CD"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "B2",
+            "swap_group": 0
+        },
+        "eba0a132-6566-4860-99e8-009da1d8db67": {
+            "alt_names": {
+                "9af5c345-3df1-4eb7-8c7f-f6a68a7ece27": {
+                    "direction": "bidirectional",
+                    "name": "DAT0A"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D1",
+            "swap_group": 0
+        },
+        "ed8192d8-a1b5-4598-9911-a75f78465cb4": {
+            "alt_names": {
+                "57d48973-572e-493a-8edb-aae934ea400c": {
+                    "direction": "bidirectional",
+                    "name": "DAT1B"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "E4",
+            "swap_group": 0
+        },
+        "efd259cc-bb9d-4fbd-8775-46ccaab20be5": {
+            "alt_names": {
+                "e4bf0af5-52dc-46b3-8f2c-34d42e7e20a5": {
+                    "direction": "input",
+                    "name": "SEL"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "E3",
+            "swap_group": 0
+        },
+        "f613fe5e-8bb8-417a-a7e1-67d86b47074b": {
+            "alt_names": {
+                "9af5c345-3df1-4eb7-8c7f-f6a68a7ece27": {
+                    "direction": "bidirectional",
+                    "name": "CMDB"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "C4",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5eee009d-43cc-4bee-a607-dd3901666f1e",
+    "version": 1
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "238aa4d7-086f-4fa6-9e53-7409192d7a37": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5fe5a3a1-8d88-406c-9ed6-b748c76297f8"
+        }
+    },
+    "manufacturer": "Fiducial",
+    "name": "Fiducial",
+    "prefix": "FID",
+    "tags": [
+        "generic",
+        "mechanical"
+    ],
+    "type": "entity",
+    "uuid": "7c4ac4bb-8326-4b8d-9904-053cc9fd6ee9"
+}

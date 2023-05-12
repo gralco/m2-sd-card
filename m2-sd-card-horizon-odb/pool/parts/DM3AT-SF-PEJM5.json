@@ -1,0 +1,92 @@
+{
+    "MPN": [
+        false,
+        "DM3AT-SF-PEJM5"
+    ],
+    "datasheet": [
+        false,
+        "https://www.hirose.com/en/product/document?clcode=&productname=&series=DM3&documenttype=Catalog&lang=en&documentid=D49662_en"
+    ],
+    "description": [
+        false,
+        "CONN MICRO SD CARD PUSH-PUSH R/A"
+    ],
+    "entity": "454ed073-f19f-42d1-85bc-d183f0b88771",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Hirose"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "2bf3af92-dcd1-4694-b9be-d19f08507f2a": "798-DM3AT-SF-PEJM5"
+    },
+    "package": "0a91c358-82c2-41b0-940d-52bc492e2741",
+    "pad_map": {
+        "03cd9600-0209-49f6-8391-b21b1476d7e4": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "a886043f-296e-4952-8aaa-c51f5c98cef3"
+        },
+        "0885a04b-4a6d-4714-a6dd-91f43bce06fc": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "4f9ab883-a0ad-42ea-9545-fc710ebc3890"
+        },
+        "090c8a7e-01fb-419e-a65f-2b86387d3cb0": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "ed983191-ab35-43aa-9a7f-94f4061b3722"
+        },
+        "4705a278-0dde-4074-920c-59138becaaa2": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "19212161-5a55-4595-82c8-d5a74f9ff3e6"
+        },
+        "4f6e9386-ddf9-4abe-b1cb-92b77bae892f": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "a886043f-296e-4952-8aaa-c51f5c98cef3"
+        },
+        "512ce0d3-e332-4584-bdf7-8e71647fe9dc": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "d1a8b9ed-7947-489d-9046-4c197b4da2a4"
+        },
+        "56f199d5-0ccc-4c2c-8e61-bfec4c3e8ccf": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "a886043f-296e-4952-8aaa-c51f5c98cef3"
+        },
+        "5f1684b9-f3a8-482a-85ca-4bc3a0adbc6a": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "b2e804c7-c4f1-4bef-82de-2d1768655269"
+        },
+        "69ec38e2-0a1b-4c28-a7c1-13cfbe31fb83": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "a886043f-296e-4952-8aaa-c51f5c98cef3"
+        },
+        "6b068eb7-c36b-4414-b31c-eb8746a4cc0d": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "3945f557-0331-418a-9b22-03677a0d6de6"
+        },
+        "89fdbe08-55de-4031-941b-a7d4a8b88f3b": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "7867a1f0-72ca-4dc1-a2f9-b582ff1f412b"
+        },
+        "9f72bc0f-9a36-4e75-a2d3-d316a0ebef6c": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "e689d263-e18b-4d52-b48a-3f17a55bfd7e"
+        },
+        "d31b0ae6-12d6-4da7-b37f-773dfaf3f53e": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "0d97d59a-3212-4f8a-b1a5-dfab697b050f"
+        },
+        "da859100-757d-42aa-b6e4-208e6a1e354a": {
+            "gate": "85fb06ff-5d70-4925-93ff-770905ee60f6",
+            "pin": "d92b3130-8a0b-4818-85d3-0775765c84a1"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "e34decf6-f5a7-4e0e-b2f3-3b0cbedb663b",
+    "value": [
+        false,
+        "Micro_SD_Card_Det2"
+    ]
+}

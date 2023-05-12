@@ -1,0 +1,141 @@
+{
+    "manufacturer": "Hirose",
+    "name": "DM3AT-SF-PEJM5",
+    "pins": {
+        "0d97d59a-3212-4f8a-b1a5-dfab697b050f": {
+            "alt_names": {
+                "a8a7ac6e-692c-4bbf-b5cf-7015ef11332c": {
+                    "direction": "bidirectional",
+                    "name": "DAT0"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "19212161-5a55-4595-82c8-d5a74f9ff3e6": {
+            "alt_names": {
+                "c194116e-5b68-4203-b479-5519cc246ec3": {
+                    "direction": "input",
+                    "name": "CMD"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "3945f557-0331-418a-9b22-03677a0d6de6": {
+            "alt_names": {
+                "6d2a9b4a-1190-436d-aab9-a66ba52d016b": {
+                    "direction": "input",
+                    "name": "CLK"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "4f9ab883-a0ad-42ea-9545-fc710ebc3890": {
+            "alt_names": {
+                "bf998bd1-2db1-41e6-9344-93c96e92fd9c": {
+                    "direction": "bidirectional",
+                    "name": "DAT1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "7867a1f0-72ca-4dc1-a2f9-b582ff1f412b": {
+            "alt_names": {
+                "c46ee577-0adb-4cf6-84a6-631fa4f25a36": {
+                    "direction": "passive",
+                    "name": "DET_B"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "a886043f-296e-4952-8aaa-c51f5c98cef3": {
+            "alt_names": {
+                "e6940a72-5bc4-4ef9-a0c0-e0e9ee3827e5": {
+                    "direction": "passive",
+                    "name": "SHIELD"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "b2e804c7-c4f1-4bef-82de-2d1768655269": {
+            "alt_names": {
+                "85183b98-ec75-4014-9f41-5cebb5ce2063": {
+                    "direction": "passive",
+                    "name": "DET_A"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "d1a8b9ed-7947-489d-9046-4c197b4da2a4": {
+            "alt_names": {
+                "79d9fc4f-c371-4d96-8468-ebfa66996c2b": {
+                    "direction": "bidirectional",
+                    "name": "DAT2"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "d92b3130-8a0b-4818-85d3-0775765c84a1": {
+            "alt_names": {
+                "59352598-8bd2-4ab3-8e16-871dffd425ef": {
+                    "direction": "bidirectional",
+                    "name": "DAT3/CD"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "e689d263-e18b-4d52-b48a-3f17a55bfd7e": {
+            "alt_names": {
+                "d46c5d07-6cc7-4f85-87e3-ed3c59a7187b": {
+                    "direction": "power_input",
+                    "name": "VDD"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "ed983191-ab35-43aa-9a7f-94f4061b3722": {
+            "alt_names": {
+                "09dfb9d7-4f99-4d72-bdb1-81cb1ef46169": {
+                    "direction": "power_input",
+                    "name": "VSS"
+                }
+            },
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "59b29ae7-9894-4a79-9ecb-9ccacbc3090d",
+    "version": 1
+}

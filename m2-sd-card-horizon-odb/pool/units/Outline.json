@@ -1,0 +1,14 @@
+{
+    "manufacturer": "Outline",
+    "name": "Outline",
+    "pins": {
+        "30bc5559-9b88-4dde-a366-7b2e113a259f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6771e695-3611-4cf9-b8ee-9c12a750593f"
+}

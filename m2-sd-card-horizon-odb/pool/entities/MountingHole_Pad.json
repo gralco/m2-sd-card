@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "b6196a53-dfb3-49c9-bb6b-1266b1cb185d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4b8e4121-4931-47e4-ac51-d7cb0945bd1f"
+        }
+    },
+    "manufacturer": "",
+    "name": "MountingHole_Pad",
+    "prefix": "H",
+    "tags": [],
+    "type": "entity",
+    "uuid": "6dfed043-491e-49f3-9c9d-a85367eb0085"
+}

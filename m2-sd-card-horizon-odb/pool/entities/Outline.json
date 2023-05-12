@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "9b7f50a2-a6f6-4840-8432-2897852c3f26": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6771e695-3611-4cf9-b8ee-9c12a750593f"
+        }
+    },
+    "manufacturer": "Outline",
+    "name": "Outline",
+    "prefix": "O",
+    "tags": [
+        "mechanical"
+    ],
+    "type": "entity",
+    "uuid": "ccbe9d2c-1d58-4cb9-aa33-7c0d7962cc18"
+}

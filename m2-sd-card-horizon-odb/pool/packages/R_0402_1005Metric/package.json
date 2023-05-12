@@ -1,0 +1,170 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "176947f6-fa3f-43da-afeb-4b6f06f6fd00": {
+            "position": [
+                525000,
+                -270000
+            ]
+        },
+        "5a66da10-3852-4454-9ee6-50fbc6ac1d2a": {
+            "position": [
+                153641,
+                380000
+            ]
+        },
+        "7fe54206-e790-4559-9638-8ac70de27fd7": {
+            "position": [
+                -525000,
+                -270000
+            ]
+        },
+        "876989d1-58ec-4972-848d-7391be9a9ad0": {
+            "position": [
+                -525000,
+                270000
+            ]
+        },
+        "93ad242a-f8aa-40ff-9ed6-619b0ca69f8c": {
+            "position": [
+                525000,
+                270000
+            ]
+        },
+        "b488e571-cb84-4bc9-99e1-c552d0c9ceec": {
+            "position": [
+                -153641,
+                -380000
+            ]
+        },
+        "e52605b4-2f88-461b-a3e0-ccfff94fb5fc": {
+            "position": [
+                -153641,
+                380000
+            ]
+        },
+        "f2ed248d-9074-4471-bb6a-0bb719374374": {
+            "position": [
+                153641,
+                -380000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "00948ae0-db85-475f-ab34-9b4eab92dc1a": {
+            "from": "e52605b4-2f88-461b-a3e0-ccfff94fb5fc",
+            "layer": 20,
+            "to": "5a66da10-3852-4454-9ee6-50fbc6ac1d2a",
+            "width": 120000
+        },
+        "236747d5-8247-4136-bb00-d4cc18f4f0f8": {
+            "from": "876989d1-58ec-4972-848d-7391be9a9ad0",
+            "layer": 50,
+            "to": "93ad242a-f8aa-40ff-9ed6-619b0ca69f8c",
+            "width": 0
+        },
+        "3f6c1ef3-d46f-4872-8588-280d255ac243": {
+            "from": "176947f6-fa3f-43da-afeb-4b6f06f6fd00",
+            "layer": 50,
+            "to": "7fe54206-e790-4559-9638-8ac70de27fd7",
+            "width": 0
+        },
+        "48b660ff-67c4-47c4-8fad-0694eb6de471": {
+            "from": "93ad242a-f8aa-40ff-9ed6-619b0ca69f8c",
+            "layer": 50,
+            "to": "176947f6-fa3f-43da-afeb-4b6f06f6fd00",
+            "width": 0
+        },
+        "8af63e76-b6e9-4c4f-bff4-0f9ecf8283e3": {
+            "from": "7fe54206-e790-4559-9638-8ac70de27fd7",
+            "layer": 50,
+            "to": "876989d1-58ec-4972-848d-7391be9a9ad0",
+            "width": 0
+        },
+        "ec36e405-59c1-4445-a702-fa11cefd7368": {
+            "from": "b488e571-cb84-4bc9-99e1-c552d0c9ceec",
+            "layer": 20,
+            "to": "f2ed248d-9074-4471-bb6a-0bb719374374",
+            "width": 120000
+        }
+    },
+    "manufacturer": "",
+    "models": {},
+    "name": "R_0402_1005Metric",
+    "pads": {
+        "affa763a-3e4c-4550-93d9-ad7dfe80dae2": {
+            "name": "1",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 135000,
+                "pad_height": 640000,
+                "pad_width": 540000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -510000,
+                    0
+                ]
+            }
+        },
+        "ee52a343-ae15-4e85-8920-1a4155be5a6b": {
+            "name": "2",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 135000,
+                "pad_height": 640000,
+                "pad_width": 540000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    510000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "resistor"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "f197591e-7499-4df1-8a19-f52f31aa7721"
+}

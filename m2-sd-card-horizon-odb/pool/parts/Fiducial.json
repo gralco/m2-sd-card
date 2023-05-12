@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "Fiducial"
+    ],
+    "datasheet": [
+        false,
+        "N/A"
+    ],
+    "description": [
+        false,
+        "N/A"
+    ],
+    "entity": "7c4ac4bb-8326-4b8d-9904-053cc9fd6ee9",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Fiducial"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "1b979db9-bd0f-4bed-88b8-94b27f14a5da": "Fiducial"
+    },
+    "package": "e901e90c-c19b-4871-94c9-8841d3ad6567",
+    "pad_map": {
+        "d11c2a41-9172-46c6-9e8d-16e547d70ca2": {
+            "gate": "238aa4d7-086f-4fa6-9e53-7409192d7a37",
+            "pin": "25ad48e4-e9e0-461b-bdb6-0529a9c9bbd4"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "6d2f76af-b4fe-4ef1-b584-de4dae7becb0",
+    "value": [
+        false,
+        "Fiducial"
+    ]
+}

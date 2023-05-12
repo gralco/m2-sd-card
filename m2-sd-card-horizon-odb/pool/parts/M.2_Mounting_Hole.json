@@ -1,0 +1,37 @@
+{
+    "MPN": [
+        false,
+        "MountingHole_Pad"
+    ],
+    "datasheet": [
+        false,
+        "~"
+    ],
+    "description": [
+        false,
+        "Mounting Hole with connection"
+    ],
+    "entity": "6dfed043-491e-49f3-9c9d-a85367eb0085",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0ce56e24-3a88-4ce4-9bea-3bbeb7dbb84c",
+    "pad_map": {
+        "88086ee4-e50c-402d-b0bb-3b4f9dc43cc5": {
+            "gate": "b6196a53-dfb3-49c9-bb6b-1266b1cb185d",
+            "pin": "a3c0d8cb-4524-4548-a63d-03380aadd6a6"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "35a5a568-e24f-4428-ad34-cff2462968e1",
+    "value": [
+        false,
+        ""
+    ]
+}

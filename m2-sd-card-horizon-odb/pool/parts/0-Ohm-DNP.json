@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "CRCW04020000Z0EDC (DNP)"
+    ],
+    "datasheet": [
+        false,
+        "https://www.vishay.com/docs/28773/crcwce3.pdf"
+    ],
+    "description": [
+        false,
+        "RES 0 OHM JUMPER 1/16W 0402"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "39943bc8-4e0a-4345-95c9-76c03999dd47": "71-CRCW04020000Z0EDC (DNP)"
+    },
+    "package": "ab2b33db-dd00-4286-94bc-72bf77e8e04b",
+    "pad_map": {
+        "affa763a-3e4c-4550-93d9-ad7dfe80dae2": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "ee52a343-ae15-4e85-8920-1a4155be5a6b": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "7acb2c81-9bb6-4cf4-9c45-184c38573c07",
+    "value": [
+        false,
+        "0 Ω (DNP)"
+    ]
+}
